@@ -1,5 +1,5 @@
 /** @type {import('prettier').Config} */
-const config = {
+module.exports = {
     endOfLine: "auto",
     printWidth: 80,
     semi: true,
@@ -7,5 +7,3 @@ const config = {
     tabWidth: 2,
     trailingComma: "none",
 };
-
-export default config;
