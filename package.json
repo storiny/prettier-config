@@ -1,0 +1,14 @@
+{
+  "name": "@storiny/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration for Storiny",
+  "main": "index.js",
+  "author": "zignis <zignis@storiny.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
